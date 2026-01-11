@@ -1,6 +1,4 @@
-#include <stdio.h>
-
-int main() {
-    printf("Hello, World!\n");
-    return 0;
+int sum(int a, int b)
+{
+    return a+b;
 }
